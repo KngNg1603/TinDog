@@ -1,5 +1,7 @@
 # TinDog Project
 
+Link to website: https://kngng1603.github.io/TinDog/
+
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
